@@ -1,0 +1,5 @@
+/Users/mercyhoush/Desktop/CS4330/C#/CSharpBasics/CSharpBasics/bin/Debug/CSharpBasics.exe
+/Users/mercyhoush/Desktop/CS4330/C#/CSharpBasics/CSharpBasics/bin/Debug/CSharpBasics.pdb
+/Users/mercyhoush/Desktop/CS4330/C#/CSharpBasics/CSharpBasics/obj/x86/Debug/CSharpBasics.csproj.CoreCompileInputs.cache
+/Users/mercyhoush/Desktop/CS4330/C#/CSharpBasics/CSharpBasics/obj/x86/Debug/CSharpBasics.exe
+/Users/mercyhoush/Desktop/CS4330/C#/CSharpBasics/CSharpBasics/obj/x86/Debug/CSharpBasics.pdb
